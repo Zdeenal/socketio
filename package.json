@@ -1,0 +1,26 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zdeenal/socketio.git"
+  },
+  "author": "Zdenek Houdek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zdeenal/socketio/issues"
+  },
+  "engines": {
+    "node": "10.16.0"
+  },
+  "homepage": "https://github.com/Zdeenal/socketio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
